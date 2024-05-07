@@ -1,6 +1,6 @@
-let div_lateral = document.querySelector("menu-lateral")
+let div_lateral_lateral = document.querySelector("menu-lateral")
 
-div_lateral.innerHTML = 
+div_lateral.innerHTML = `
     <ul>
         <li>CPU</li>
         <li>GPU</li>
@@ -8,4 +8,4 @@ div_lateral.innerHTML =
         <li>Unidad</li>
         <li>RAM</li>
         <li>Tarjeta Madre</li>
-    </ul> 
+    </ul> `;
