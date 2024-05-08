@@ -1,7 +1,7 @@
 let div_lateral=document.querySelector(".menu-lateral")
 
 div_lateral.innerHTML = `
-<ul class="nav">
+<ul>
     <li>CPU</li>
     <li>GPU</li>
     <li>DISCO HDD</li>
@@ -9,4 +9,4 @@ div_lateral.innerHTML = `
     <li>RAM</li>
     <li>Trajeta Madre</li>
 
-</ul> `;
+</ul>`;
