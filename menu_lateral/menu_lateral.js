@@ -9,4 +9,4 @@ div_lateral.innerHTML = `
     <li>RAM</li>
     <li>Trajeta Madre</li>
 
-</ul>`;
+</ul>`; 
