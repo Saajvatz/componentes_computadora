@@ -1,9 +1,7 @@
 .menu-lateral{
-    background-color: grey;
     grid-column: 0/3;
     grid-row: 3/3;
-}  
-
+ }
 .menu-lateral{
     background-color: greenyellow;
     width: auto;
