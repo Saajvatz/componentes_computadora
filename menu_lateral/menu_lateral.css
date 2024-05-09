@@ -1,8 +1,13 @@
 .menu-lateral{
     grid-column: 0/3;
     grid-row: 3/3;
+<<<<<<< HEAD
     background-color: aqua;
 }  
+=======
+ }
+
+>>>>>>> 4ac499874f9e265d5db07fba8af6d2e92a970c75
 .menu-lateral{
     width: auto;
     height: auto;
