@@ -6,3 +6,22 @@
     background-color:royalblue ;
 
 }
+.CPU{
+    border: solid black;
+}
+.GPU{
+    border: solid black;
+}
+
+.TarjetaMadre{
+    border: solid black;
+}
+.RAM{
+    border: solid black;
+}
+.SSD{
+    border: solid  black;
+}
+.TarjetaSIM{
+    border: solid black;
+}

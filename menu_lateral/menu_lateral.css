@@ -1,5 +1,4 @@
 .menu-lateral{
-    background-color: grey;
     grid-column: 0/3;
     grid-row: 3/3;
  }
@@ -16,4 +15,5 @@
     height: 100rem;
     background-color: black;
 }
+
 
