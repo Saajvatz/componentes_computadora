@@ -3,7 +3,7 @@
     grid-row: 3/3;
  }
 .menu-lateral{
-    background-color: greenyellow;
+    border: solid 2px black;
     width: auto;
     height: auto;
     padding: 0%;
