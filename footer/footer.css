@@ -6,20 +6,26 @@
 }
 .CPU{
     border: solid black;
+    padding: 100rem;
 }
 .GPU{
     border: solid black;
+    padding: 100rem;
 }
 
 .TarjetaMadre{
     border: solid black;
+    padding: 100rem;
 }
 .RAM{
     border: solid black;
+    padding: 100rem;
 }
 .SSD{
     border: solid  black;
+    padding: 100rem;
 }
 .TarjetaSIM{
     border: solid black;
+    padding: 100rem;
 }
