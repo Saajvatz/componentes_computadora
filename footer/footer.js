@@ -1,4 +1,4 @@
 let div_footer=document.querySelector(".footer")
 
 div_footer.innerHTML = " Los componentes de una computadora se divide en dos partes una como “hardware” que hacen referencia aquellos elementos físicos de una computadora o sistema informático, aquellos componentes internos que lo conforman. Básicamente son las partes tangibles de la computadora."
-
+<img src="https://www.bing.com/ck/a?!&&p=4e0c630f40ec62edJmltdHM9MTcxNTY0NDgwMCZpZ3VpZD0zMGZiYWVhMy1iZWIwLTZlMGQtMjc0NC1iZDRkYmYyMDZmYzMmaW5zaWQ9NTU5MQ&ptn=3&ver=2&hsh=3&fclid=30fbaea3-beb0-6e0d-2744-bd4dbf206fc3&u=a1L2ltYWdlcy9zZWFyY2g_cT1pbSVDMyVBMWdlbmVzJTIwJTIwZGUlMjB1bmElMjBjb21wdXRhZG9yYSZGT1JNPUlRRlJCQSZpZD05OEQwNDVBOTBDOUNENkQzNjI4Njk5RTVGMzgzQzU2NzQ0RUIyQjVC&ntb=1" alt="">
