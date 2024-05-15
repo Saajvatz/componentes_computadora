@@ -1,7 +1,7 @@
 .footer {
     
-    grid-column: 2/3;
-    grid-row: 3/3;  
+    grid-column: 0/7;
+    grid-row: 7/7;  
     border: solid 2px black;
 }
 .CPU{

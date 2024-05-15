@@ -1,4 +1,4 @@
 let div_section = document.querySelector(".section")
 
 div_section.innerHTML = `
-<div> </div>
+<div> <p> papa</p></div>`;
