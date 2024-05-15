@@ -1,6 +1,7 @@
 .section {
-    grid-column: 7/7;
-    grid-row: 7/7;  
+    grid-column: 3/7;
+    grid-row: 3/7;  
     border: solid 2px black; 
     background-color: blue;
 }
+''
