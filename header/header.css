@@ -2,7 +2,8 @@
     
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 18.8rem;
     grid-column: 1/7;
     grid-row: 0/7;  
     border: solid 2px black; 
