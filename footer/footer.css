@@ -1,38 +1,8 @@
 .footer {
     
     grid-column: 1/2;
-    grid-row: 1/2;  
+    grid-row: 04;  
     border: solid 2px black;
     width: 1370px;
     height: 300px;
-}
-.CPU{
-    border: solid black;
-    padding: 100rem;
-}
-.GPU{
-    border: solid black;
-    padding: 100rem;
-}
-
-.TarjetaMadre{
-    border: solid black;
-    padding: 100rem;
-}
-.RAM{
-    border: solid black;
-    padding: 100rem;
-}
-.SSD{
-    border: solid  black;
-    padding: 100rem;
-}
-.TarjetaSIM{
-    border: solid black;
-    padding: 100rem;
-}
-
-.footer img {
-    height: 200px;
-    width: 200px;
 }

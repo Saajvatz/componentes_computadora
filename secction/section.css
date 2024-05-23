@@ -1,5 +1,14 @@
 .section1 {
     
+    grid-column: 1/2;
+    grid-row: 4/5;  
+    border: solid 2px black;
+    width: 1370px;
+    height: 300px;
+     }
+
+.section1 {
+    
     width: 1540px;
     height: 400px;
     background-color: rgba(233, 72, 72, 0.846);
